@@ -1,0 +1,6 @@
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\bin\Debug\csharpserver.exe.config
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\bin\Debug\csharpserver.exe
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\bin\Debug\csharpserver.pdb
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\obj\Debug\csharpserver.csprojResolveAssemblyReference.cache
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\obj\Debug\csharpserver.exe
+c:\users\josiahburchard\documents\visual studio 2015\Projects\csharpserver\csharpserver\obj\Debug\csharpserver.pdb
